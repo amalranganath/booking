@@ -1,0 +1,18 @@
+/**
+* 
+*/
+
+body { font-family:  Helvetica}
+
+.container { max-width: 1140px; margin: 0 auto; padding: 0 15px; }
+
+header { background: #003580; color: #ffffff; }
+header nav { padding-top: 15px }
+
+.search-form { display: flex; }
+.search-form .ui-widget { display: inline-block; min-width: 25% }
+
+.listing { font-family: Ubuntu }
+.title { font-weight: 600; }
+.p-card .row { padding: 0 }
+.price { font-size: 1em; font-weight: 600}
